@@ -1,3 +1,3 @@
 # AliasPal #
 
-\~\~\~ Made with [Bacon](github.com/jaderigby/bacon)!
+\~\~\~ Made with [Bacon](https://github.com/jaderigby/bacon)!
