@@ -1,0 +1,14 @@
+{
+    "alias": "apal", 
+    "toolName": "AliasPal", 
+    "actions": [
+        {
+            "name": "-", 
+            "description": "'Run', Available Options:\n\nalias:\t\tSet an alias; relative or absolute path as value\nat:\t\tUsed with 'alias', sets a specific location for where to save the alias; relative paths are valid\nshow:\t\tShows the path of a particular alias; pass in the name/path \n\t\tof the alias as the value\n"
+        }, 
+        {
+            "name": "findall", 
+            "description": "Find all instances of an alias"
+        }
+    ]
+}
